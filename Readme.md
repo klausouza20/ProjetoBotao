@@ -1,2 +1,1 @@
-Olá esse projeto ensina você a usar o Git
-Isso é uma alteração
+Olá aqui vamos criar um novo botão e adicionar um ação utilizando JavaScript
