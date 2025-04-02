@@ -1,1 +1,1 @@
-Olá aqui vamos criar um novo botão e adicionar um ação utilizando JavaScript
+Olá aqui vamos criar um novo botão e adicionar uma ação utilizando JavaScript
