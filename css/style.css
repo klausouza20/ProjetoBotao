@@ -24,3 +24,21 @@ body{
     border-radius: 15px;
     background-color: aqua;
 }
+
+#botao:hover{
+    cursor: pointer;
+    padding: 17px;
+}
+
+#cor{
+    display: block;
+    margin-left: 10%;
+    padding: 35px;
+    border-radius: 15px;
+    border: none;
+
+}
+
+#fundo{
+    transition: background-color 1.0s ease;
+}
