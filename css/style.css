@@ -5,6 +5,7 @@
 body{
     margin: 0;
     padding: 0;
+    background-color: bisque;
 }
 
 .header{
@@ -32,7 +33,7 @@ body{
 
 #cor{
     display: block;
-    margin-left: 10%;
+    margin-left: 9%;
     padding: 35px;
     border-radius: 15px;
     border: none;
